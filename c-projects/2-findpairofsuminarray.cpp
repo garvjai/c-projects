@@ -65,7 +65,7 @@ int main()
 
 
 
-//method 3-  hasing(use of haspmap)
+//method 3-  hasing(use of haspmap (use unordered set) )
 
     for(int i=0;i<len;i++)
         cout << arr[i] << " " ;
