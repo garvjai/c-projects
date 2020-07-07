@@ -3,5 +3,6 @@ CONFIG += console c++11
 CONFIG -= app_bundle
 CONFIG -= qt
 
-SOURCES += main.cpp \
-    2.cpp
+SOURCES += \
+    2-findpairofsuminarray.cpp \
+    1-linear_search.cpp
